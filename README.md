@@ -1,1 +1,2 @@
 # resaux-social-collaboratif-
+<!-- decrit e projet  -->
